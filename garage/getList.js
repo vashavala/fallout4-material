@@ -18,8 +18,8 @@ const BASIC_SRC = "https://fallout.fandom.com/wiki/";
   // componentLinks.splice(0, 10)
 
   // 20 ~
-  componentNames.splice(0, 20)
-  componentLinks.splice(0, 20)
+  // componentNames.splice(0, 20)
+  // componentLinks.splice(0, 20)
 
   console.log(`componentNames`, componentNames.length, componentNames)
   console.log(`componentLinks`, componentLinks.length, componentLinks)
